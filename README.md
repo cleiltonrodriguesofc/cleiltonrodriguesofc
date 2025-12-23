@@ -1,4 +1,4 @@
-# Hi, I'm Cleilton Rodrigues 👋
+# Hello, world, I'm Cleilton Rodrigues! 👋
 
 ### 💻 Investment Analyst | Full-Stack Developer | Fintech Enthusiast
 
@@ -43,4 +43,4 @@ Here are a few projects that best represent my skills and interests.
 | :--- | :--- |
 | **LinkedIn** | [https://www.linkedin.com/in/cleiltonrodrigues/](https://www.linkedin.com/in/cleiltonrodrigues/) |
 | **Portfolio** | [https://portfoliocleilton.onrender.com/](https://portfoliocleilton.onrender.com/) |
-| **Email** | **[rc.cleiltonrodrigues@gmail.com](mailto:rc.cleiltonrodrigues@gmail.com) |
+| **Email** | [rc.cleiltonrodrigues@gmail.com](mailto:rc.cleiltonrodrigues@gmail.com) |
