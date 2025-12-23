@@ -43,4 +43,4 @@ Here are a few projects that best represent my skills and interests.
 | :--- | :--- |
 | **LinkedIn** | [https://www.linkedin.com/in/cleiltonrodrigues/](https://www.linkedin.com/in/cleiltonrodrigues/) |
 | **Portfolio** | [https://portfoliocleilton.onrender.com/](https://portfoliocleilton.onrender.com/) |
-| **Email** | **[Please insert your professional email address here]** |
+| **Email** | **[rc.cleiltonrodrigues@gmail.com](mailto:rc.cleiltonrodrigues@gmail.com) |
